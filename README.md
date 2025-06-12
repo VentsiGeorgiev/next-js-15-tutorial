@@ -27,3 +27,10 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 ### Dynamic routes
 
 ### Nested dynamic routes
+
+### Catch all segments
+
+http://localhost:3000/docs/feature1
+http://localhost:3000/docs/feature2/example3
+
+### Not found page
