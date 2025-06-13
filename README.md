@@ -61,3 +61,14 @@ A layout is UI that is shared between multiple pages in your app
 ### Active link
 
 http://localhost:3000/forgot-password
+
+### Params and search params
+
+params is a promise that resolves to an object containing the dynamic route parameters (like id)
+searchParams is a promise that resolves to an object containing the query parameters (like filters and sorting)
+
+http://localhost:3000/articles/breaking-news-123?lang=fr
+
+### Navigating Programmatically
+
+http://localhost:3000/order-product

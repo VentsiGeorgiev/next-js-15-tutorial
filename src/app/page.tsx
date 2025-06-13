@@ -10,6 +10,12 @@ export default function Home() {
     <div>
     <Link href="products">Products</Link>
     </div>
+    <div>
+      <Link href='/articles/breaking-news-123?lang=en'>Read in English</Link>
+    </div>
+    <div>
+      <Link href='/articles/breaking-news-123?lang=fr'>Read in French</Link>
+    </div>
     </>
   )
 }
