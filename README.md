@@ -48,3 +48,10 @@ http://localhost:3000/\_test
 ### Route grouping
 
 use () for route grouping - (auth) / login
+
+### Layouts
+
+Page are route-specific UI components
+A layout is UI that is shared between multiple pages in your app
+
+### Nested layouts
