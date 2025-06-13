@@ -34,3 +34,17 @@ http://localhost:3000/docs/feature1
 http://localhost:3000/docs/feature2/example3
 
 ### Not found page
+
+### File Colocation
+
+### Pivate folders
+
+Add \_ at the start of the page
+http://localhost:3000/\_lib
+
+If we would like to have \_ in the routing we could use %5F
+http://localhost:3000/\_test
+
+### Route grouping
+
+use () for route grouping - (auth) / login
