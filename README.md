@@ -72,3 +72,10 @@ http://localhost:3000/articles/breaking-news-123?lang=fr
 ### Navigating Programmatically
 
 http://localhost:3000/order-product
+
+### Templates / Layouts
+
+Templates:
+Not persistent: A new instance is created each time the route is loaded.
+Layouts:
+Persistent: It is shared and preserved between navigations.
