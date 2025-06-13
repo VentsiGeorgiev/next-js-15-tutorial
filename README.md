@@ -55,3 +55,9 @@ Page are route-specific UI components
 A layout is UI that is shared between multiple pages in your app
 
 ### Nested layouts
+
+### Link component
+
+### Active link
+
+http://localhost:3000/forgot-password

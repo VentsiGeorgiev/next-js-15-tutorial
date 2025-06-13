@@ -1,0 +1,11 @@
+.link {
+  display: inline-block;
+  color: #000;
+  margin: 10px;
+  padding: 5px;
+  background-color: #c2dbb3;
+}
+.link-active {
+  color: #035525;
+  background-color: #9cb3d6;
+}
